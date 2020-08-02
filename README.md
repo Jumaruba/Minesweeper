@@ -4,11 +4,12 @@
 
 This project consists of a classic Minesweeper game, despite the original being played using the mouse, this new version requires you to play with the keyboard. Each cell has a value with the number of adjacent bombs, but if a bomb is revealed you lose.
 
-## Credits
-This project was developed by 
-[__Alexandre Abreu__ ](https://github.com/a3brx) and [__Juliane Marubayashi__ ](https://github.com/jumaruba) for the _Object Oriented Programming Laboratory_ class of MIEIC. 
-Final Grade: 19.22 from 20  
-  
+## Credits and info 
+This project was developed by [__Alexandre Abreu__ ](https://github.com/a3brx) and [__Juliane Marubayashi__ ](https://github.com/jumaruba) 
+- **_Object Oriented Programming Laboratory_** class of __MIEIC__. 
+- __Final Grade__: 19.22 from 20    
+- __Techinical report__: [here](https://github.com/Jumaruba/Minesweeper/tree/master/docs)   
+
 University of Porto, 2020
 
 ## How to install 
