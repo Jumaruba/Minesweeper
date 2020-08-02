@@ -2,7 +2,7 @@
 
 # Minesweeper 
 
-This project consists of a classic Minesweeper game, despite the original being played using the mouse, this new version requires you to play with the keyboard. Each cell has a value with the number of adjacent bombs, but if a bomb is revealed you lose.
+This project consists of a classic Minesweeper game, despite the original being played using the mouse, this new version requires you to play with the keyboard. Each cell has a value with the number of adjacent bombs, but if a bomb is revealed you loose.
 
 ## Credits and info 
 This project was developed by [__Alexandre Abreu__ ](https://github.com/a3brx) and [__Juliane Marubayashi__ ](https://github.com/jumaruba) 
