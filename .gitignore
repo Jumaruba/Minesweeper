@@ -1,0 +1,9 @@
+# Project folders and files
+**/.gradle/
+**/.idea/
+**/build/
+
+/gradle/
+gradlew
+gradlew.bat
+Score.txt
