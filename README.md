@@ -32,7 +32,7 @@ You can checkout the site [Gradlew](https://gradle.org/install/) official site t
 
 **Rankings** - When a user finishes a game the ranking will be updated with their time with that specific dimension of board and difficulty.
 
-### Images
+## Images
 ![](https://i.imgur.com/h4gr9DB.png)  
 
 ![](https://i.imgur.com/NtOUsaM.png)  
