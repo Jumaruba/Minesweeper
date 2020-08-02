@@ -52,5 +52,6 @@ The clock indicates that 57 seconds had passed.
 ## Credits
 This project was developed by 
 [__Alexandre Abreu__ ](https://github.com/a3brx) and [__Juliane Marubayashi__ ](https://github.com/jumaruba) for the _Object Oriented Programming Laboratory_ class of MIEIC. 
-
+Final Grade: 19.22 from 20  
+  
 University of Porto, 2020
